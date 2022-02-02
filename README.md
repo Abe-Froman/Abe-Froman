@@ -1,8 +1,6 @@
 
 <h2> Hey there. My name is Dan! 👋</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-gregtaylorau-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gregtaylorau)](https://www.linkedin.com/in/gregtaylorau) [![DEV Badge](https://img.shields.io/badge/-gtdownunder-7FBC00?style=for-the-badge&logo=Dev.to&link=https://dev.to/gtdownunder)](https://dev.to/gtdownunder) [![Gmail Badge](https://img.shields.io/badge/-gregtaylor926-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gregtaylor926@gmail.com)](mailto:gregtaylor926@gmail.com)
-
 ## :computer: Technologies I Love
 * .NET Core (C#)
 * Entity Framework
