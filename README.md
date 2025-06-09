@@ -1,4 +1,3 @@
-
 <h2> Hey there. My name is Dan! 👋</h2>
 
 ## :computer: Technologies I Love
