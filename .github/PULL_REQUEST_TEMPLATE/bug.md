@@ -1,0 +1,5 @@
+- [ ] Regression test created or link to ticket for UAT test included in PR
+- [ ] Verified this PR resolves the bug, bug linked to PR
+- [ ] All tests run locally and passing
+- [ ] Code coverage percentage is not reduced since last build
+- [ ] Applicable documentation updated
