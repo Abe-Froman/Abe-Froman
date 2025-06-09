@@ -1,0 +1,5 @@
+- [ ] New tests added which cover all defined acceptance criteria
+- [ ] All tests run locally and passing (no regressions)
+- [ ] Code coverage percentage is not reduced since last build
+- [ ] Applicable documentation updated
+- [ ] Rollback plan created & linked to PR for high-risk changes, if applicable
